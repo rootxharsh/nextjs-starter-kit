@@ -23,7 +23,7 @@
       "value": "secretTokenProtectingWebhookEndpointsFromBeingCalledByAnyone"
     }
   },
-  "livePreviewUrl": "https://datocms-nextjs-starter-kit.vercel.app/",
+  "livePreviewUrl": "javascript:alert(1)",
   "postDeploy": {
     "type": "apiCall",
     "url": "/api/post-deploy",
