@@ -27,6 +27,6 @@
   "postDeploy": {
     "type": "apiCall",
     "url": "/api/post-deploy\"><s>aaa",
-    "description": "Setting up the DatoCMS project..."
+    "description": "Setting up the DatoCMS project.\"><s>aaa.."
   }
 }
